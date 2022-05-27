@@ -1,0 +1,15 @@
+.dropdown{
+  width:360px;
+  border-radius: 6px;
+  height:37px;
+  font-size:14px;
+}
+
+.dropdowncontainer{
+  margin-top:1rem;
+}
+
+.dropdowncontainer label{
+  font-size:14px;
+
+}
